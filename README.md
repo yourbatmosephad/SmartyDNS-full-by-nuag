@@ -1,0 +1,1 @@
+# SmartyDNS-full-by-nuag
